@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p190455-e1989668.adobeaemcloud.com/bin/franklin.delivery/woutervangeluwe/techinsiders-ondemand-citisignal-aem-accs10/main"
+    url: "https://author-p190455-e1989668.adobeaemcloud.com/bin/franklin.delivery/woutervangeluwe/techinsidersod10-citisignal-aem-accs/main"
     type: "markup"
     suffix: ".html"
 folders:
